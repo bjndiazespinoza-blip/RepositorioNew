@@ -8,6 +8,7 @@ Este repositorio contiene ejercicios de:
 - Operadores
 - Comparaciones
 - Operadores lógicos
+- Ejercicios varios
 
 ## Autor
-Tu Nombre
+Benjamin Diaz

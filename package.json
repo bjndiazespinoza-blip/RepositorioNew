@@ -1,0 +1,21 @@
+{
+  "name": "ejerciciojs",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene ejercicios de:",
+  "main": "ejercicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjndiazespinoza-blip/RepositorioNew.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bjndiazespinoza-blip/RepositorioNew/issues"
+  },
+  "homepage": "https://github.com/bjndiazespinoza-blip/RepositorioNew#readme"
+}
